@@ -1,16 +1,26 @@
-## Hi there 👋
+## Robotics Simulation • Digital Twins • Computational Engineering
 
-<!--
-**SergeTleiji/SergeTleiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical Engineer passionate about building simulation software for robotics.
 
-Here are some ideas to get you started:
+My interests lie at the intersection of mechanical engineering, robotics, and software engineering, where I develop simulation pipelines, digital twins, and computational tools that support autonomous systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current work includes:
+
+- NVIDIA Isaac Sim & OpenUSD
+- ROS2 Robotics
+- Procedural Environment Generation
+- Geometry Processing
+- Blender Automation
+- Sensor Simulation
+- Synthetic Data Generation
+- Digital Twin Development
+- Numerical Engineering
+
+I enjoy solving engineering problems by combining physics, mathematics, and software into reliable simulation infrastructure.
+
+### Currently
+
+- Building robotics simulation pipelines
+- Learning advanced OpenUSD workflows
+- Contributing to embodied AI research
+- Exploring digital twin engineering
