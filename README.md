@@ -1,26 +1,34 @@
-## Robotics Simulation • Digital Twins • Computational Engineering
+## Robotics Software • Autonomous Systems • Simulation
 
-Mechanical Engineer passionate about building simulation software for robotics.
+Robotics engineer with a Mechanical Engineering background, working across
+robotics software, autonomy, simulation, multi-sensor systems, and physical
+robot integration.
 
-My interests lie at the intersection of mechanical engineering, robotics, and software engineering, where I develop simulation pipelines, digital twins, and computational tools that support autonomous systems.
+My work spans ROS2/PX4 autonomous systems, NVIDIA Isaac Sim and OpenUSD,
+LiDAR-camera processing, SLAM and state estimation, embodied AI research,
+and sim-to-real robotics development.
 
-Current work includes:
+I currently contribute to robotics research with Georgia Tech Europe and AUB,
+and work with SensorFusion Innovations on robotics software and multi-sensor
+processing systems.
 
-- NVIDIA Isaac Sim & OpenUSD
-- ROS2 Robotics
+### Technical Focus
+
+- ROS2, C++ and Python
+- PX4 Autonomy and UAV Systems
+- NVIDIA Isaac Sim and OpenUSD
+- SLAM, State Estimation and Localization
+- LiDAR-Camera Calibration and Sensor Fusion
+- Gazebo and MuJoCo Simulation
 - Procedural Environment Generation
-- Geometry Processing
-- Blender Automation
-- Sensor Simulation
-- Synthetic Data Generation
-- Digital Twin Development
-- Numerical Engineering
+- Geometry and Point-Cloud Processing
+- Embodied AI and Navigation
+- Digital Twins and Sim-to-Real Validation
 
-I enjoy solving engineering problems by combining physics, mathematics, and software into reliable simulation infrastructure.
+### Current Work
 
-### Currently
-
-- Building robotics simulation pipelines
-- Learning advanced OpenUSD workflows
-- Contributing to embodied AI research
-- Exploring digital twin engineering
+- Developing autonomous UAV systems with ROS2, PX4, Jetson and Pixhawk
+- Leading simulation backend development for AgriGen
+- Contributing to embodied AI and navigation research
+- Developing multi-sensor robotics pipelines at SensorFusion Innovations
+- Building research tooling for localization, perception and robotics datasets
